@@ -5,7 +5,7 @@ Full stack software engineer at [SettleMint](https://settlemint.com), based in B
 ## Open Source
 
 - [Tsarr](https://github.com/robbeverhelst/Tsarr) — Type-safe TypeScript SDK for Servarr APIs (Radarr, Sonarr, Lidarr, Readarr, Prowlarr)
-- [routess](https://github.com/robbeverhelst/routess) — Open-source, self-hostable route-planning app for cyclists, runners, and hikers — interactive map editor, GPX import/export, Helm chart
+- [routess](https://github.com/robbeverhelst/routess) — Self-hostable route-planning app for cyclists, runners, and hikers
 - [Preparr](https://github.com/robbeverhelst/Preparr) — Lightweight Docker sidecar that automates Servarr initialization from deployment to ready-to-use
 - [observation-js](https://github.com/robbeverhelst/observation-js) — Fully-typed TypeScript client for the waarneming.nl API
 - [renovate-minecraft-datasource](https://github.com/robbeverhelst/renovate-minecraft-datasource) — Custom Renovate datasource for tracking Minecraft Java Edition versions
