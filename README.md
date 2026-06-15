@@ -4,7 +4,7 @@ Full stack software engineer at [SettleMint](https://settlemint.com), based in B
 
 ## Open Source
 
-- [Tsarr](https://github.com/robbeverhelst/Tsarr) — Type-safe TypeScript SDK for Servarr APIs (Radarr, Sonarr, Lidarr, Readarr, Prowlarr)
+- [Tsarr](https://github.com/robbeverhelst/Tsarr) — Type-safe TypeScript SDK & CLI for Servarr APIs (Radarr, Sonarr, Lidarr, Readarr, Prowlarr)
 - [routess](https://github.com/robbeverhelst/routess) — Self-hostable route-planning app for cyclists, runners, and hikers
 - [wakehook](https://github.com/robbeverhelst/wakehook) — Self-hosted webhook that fires a signed user.awake event when you wake up
 - [Preparr](https://github.com/robbeverhelst/Preparr) — Lightweight Docker sidecar that automates Servarr initialization from deployment to ready-to-use
