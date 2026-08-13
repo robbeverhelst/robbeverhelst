@@ -8,7 +8,7 @@ Full stack software engineer at [SettleMint](https://settlemint.com), based in B
 - [routess](https://github.com/robbeverhelst/routess) — Self-hostable route-planning app for cyclists, runners, and hikers
 - [unifi-reactor](https://github.com/robbeverhelst/unifi-reactor) — Kubernetes operator that turns UniFi network events into infrastructure actions
 - [resend-exporter](https://github.com/robbeverhelst/resend-exporter) — Prometheus exporter and webhook receiver for Resend email events
-- [wakehook](https://github.com/robbeverhelst/wakehook) — Self-hosted webhook that fires a signed user.awake event when you wake up
+- [wakehook](https://github.com/robbeverhelst/wakehook) — Self-hosted webhook that detects your wake-up from the Google Health API and fires an event
 - [Preparr](https://github.com/robbeverhelst/Preparr) — Lightweight Docker sidecar that automates Servarr initialization from deployment to ready-to-use
 - [observation-js](https://github.com/robbeverhelst/observation-js) — Fully-typed TypeScript client for the waarneming.nl API
 - [renovate-minecraft-datasource](https://github.com/robbeverhelst/renovate-minecraft-datasource) — Custom Renovate datasource for tracking Minecraft Java Edition versions
