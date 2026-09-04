@@ -2,6 +2,10 @@
 
 Full stack software engineer at [SettleMint](https://settlemint.com), based in Belgium. I work on scalable blockchain infrastructure.
 
+## Homelab
+
+[homelab.robbeverhelst.com](https://homelab.robbeverhelst.com) — a guided tour of my rack, network, hypervisors, Kubernetes cluster and the apps I self-host.
+
 ## Open Source
 
 - [Tsarr](https://github.com/robbeverhelst/Tsarr) — Type-safe TypeScript SDK & CLI for Servarr APIs (Radarr, Sonarr, Lidarr, Readarr, Prowlarr)
