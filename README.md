@@ -2,13 +2,10 @@
 
 Full stack software engineer at [SettleMint](https://settlemint.com), based in Belgium. I work on scalable blockchain infrastructure.
 
-## Homelab
-
-[homelab.robbeverhelst.com](https://homelab.robbeverhelst.com) — a guided tour of my rack, network, hypervisors, Kubernetes cluster and the apps I self-host.
-
-## Open Source
+## Projects
 
 - [Tsarr](https://github.com/robbeverhelst/Tsarr) — Type-safe TypeScript SDK & CLI for Servarr APIs (Radarr, Sonarr, Lidarr, Readarr, Prowlarr)
+- [homelab](https://homelab.robbeverhelst.com) — Guided tour of my rack, network, hypervisors, Kubernetes cluster and the apps I self-host
 - [routess](https://github.com/robbeverhelst/routess) — Self-hostable route-planning app for cyclists, runners, and hikers
 - [unifi-reactor](https://github.com/robbeverhelst/unifi-reactor) — Kubernetes operator that turns UniFi network events into infrastructure actions
 - [resend-exporter](https://github.com/robbeverhelst/resend-exporter) — Prometheus exporter and webhook receiver for Resend email events
