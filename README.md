@@ -5,7 +5,7 @@ Full stack software engineer at [SettleMint](https://settlemint.com), based in B
 ## Projects
 
 - [Tsarr](https://github.com/robbeverhelst/Tsarr) — Type-safe TypeScript SDK & CLI for Servarr APIs (Radarr, Sonarr, Lidarr, Readarr, Prowlarr)
-- [Sluiceway](https://github.com/sluiceway/sluiceway) — Deploy dashboard for infrastructure as code that lives in a GitHub issue: tick a stack and GitHub Actions deploys exactly that one (beta)
+- [Sluiceway](https://github.com/sluiceway/sluiceway) — IaC deploy dashboard that lives in a GitHub issue
 - [homelab](https://homelab.robbeverhelst.com) — Guided tour of my rack, network, hypervisors, Kubernetes cluster and the apps I self-host
 - [routess](https://github.com/robbeverhelst/routess) — Self-hostable route-planning app for cyclists, runners, and hikers
 - [unifi-reactor](https://github.com/robbeverhelst/unifi-reactor) — Kubernetes operator that turns UniFi network events into infrastructure actions
