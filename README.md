@@ -1,11 +1,13 @@
 # Hi, I'm Robbe
 
-Full stack software engineer at [SettleMint](https://settlemint.com), based in Belgium. I work on scalable blockchain infrastructure.
+Full-stack developer from Belgium. I build a platform at [SettleMint](https://settlemint.com), run [robbeverhelst](https://robbeverhelst.be) for local businesses, and build my own products like [Sluiceway](https://sluiceway.dev).
+
+Most of it runs on a rack I built myself: [homelab.robbeverhelst.com](https://homelab.robbeverhelst.com).
 
 ## Projects
 
-- [Tsarr](https://github.com/robbeverhelst/Tsarr) — Type-safe TypeScript SDK & CLI for Servarr APIs (Radarr, Sonarr, Lidarr, Readarr, Prowlarr)
 - [sluiceway](https://github.com/sluiceway/sluiceway) — IaC deploy dashboard that lives in a GitHub issue
+- [Tsarr](https://github.com/robbeverhelst/Tsarr) — Type-safe TypeScript SDK & CLI for Servarr APIs (Radarr, Sonarr, Lidarr, Readarr, Prowlarr)
 - [homelab](https://homelab.robbeverhelst.com) — Guided tour of my rack, network, hypervisors, Kubernetes cluster and the apps I self-host
 - [routess](https://github.com/robbeverhelst/routess) — Self-hostable route-planning app for cyclists, runners, and hikers
 - [unifi-reactor](https://github.com/robbeverhelst/unifi-reactor) — Kubernetes operator that turns UniFi network events into infrastructure actions
