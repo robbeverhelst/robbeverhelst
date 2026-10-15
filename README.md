@@ -2,7 +2,7 @@
 
 Full-stack developer from Belgium. I build a platform at [SettleMint](https://settlemint.com), run [robbeverhelst](https://robbeverhelst.be) for local businesses, and build my own products like [Sluiceway](https://sluiceway.dev).
 
-Most of it runs on a rack I built myself: [homelab.robbeverhelst.com](https://homelab.robbeverhelst.com).
+Most of it runs on a rack I built myself: [homelab.robbeverhelst.com](https://homelab.robbeverhelst.com). I write about what I build on [dev.to](https://dev.to/robbeverhelst).
 
 ## Projects
 
@@ -21,4 +21,4 @@ Most of it runs on a rack I built myself: [homelab.robbeverhelst.com](https://ho
 
 ## Contact
 
-[Twitter](https://x.com/robbeverhelst) · [LinkedIn](https://www.linkedin.com/in/robbe-verhelst-61b37a123/) · [Email](mailto:robbe.verhelst@gmail.com)
+[Twitter](https://x.com/robbeverhelst) · [dev.to](https://dev.to/robbeverhelst) · [LinkedIn](https://www.linkedin.com/in/robbe-verhelst-61b37a123/) · [Email](mailto:robbe.verhelst@gmail.com)
